@@ -1,1 +1,1 @@
-# gcp-network
+# aws resources
